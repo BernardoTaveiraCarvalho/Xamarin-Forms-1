@@ -1,0 +1,16 @@
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\bin\Debug\netstandard2.0\Xamarin Forms 1.deps.json
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\bin\Debug\netstandard2.0\Xamarin Forms 1.dll
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\bin\Debug\netstandard2.0\Xamarin Forms 1.pdb
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\Xamarin Forms 1.csproj.AssemblyReference.cache
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\Xamarin Forms 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\Xamarin Forms 1.AssemblyInfoInputs.cache
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\Xamarin Forms 1.AssemblyInfo.cs
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\Xamarin Forms 1.csproj.CoreCompileInputs.cache
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\Xamarin Forms 1.dll
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\refint\Xamarin Forms 1.dll
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\Xamarin Forms 1.pdb
+C:\Users\camin\source\repos\Xamarin Forms 1\Xamarin Forms 1\Xamarin Forms 1\obj\Debug\netstandard2.0\ref\Xamarin Forms 1.dll
